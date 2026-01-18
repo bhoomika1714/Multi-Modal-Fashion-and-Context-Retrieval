@@ -1,5 +1,5 @@
 
-````md
+
 # Multimodal Fashion & Context Retrieval System
 
 This repository contains an intelligent multimodal search engine that retrieves fashion images based on **natural language descriptions** involving clothing attributes, colors, environments, and style.
@@ -27,8 +27,8 @@ This project explores a **CLIP-based system enhanced with attribute-aware reason
 ---
 
 ## 🧠 High-Level Architecture
-
-```text
+```
+text
 ┌────────────────┐
 │ Image Dataset  │
 └───────┬────────┘
